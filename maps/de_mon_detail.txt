@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 cxbooksa	detail/grama_a_det	4.0	4.0
 cxbooksc	detail/grama_a_det	4.0	4.0
 penhasco_b	detail/grama_a_det	4.0	4.0
 rock_grey	detail/pedra_det	3.0	3.0
+=======
+cxbooksa	detail/grama_a_det	4.0	4.0
+cxbooksc	detail/grama_a_det	4.0	4.0
+penhasco_b	detail/grama_a_det	4.0	4.0
+rock_grey	detail/pedra_det	3.0	3.0
+>>>>>>> 430f47e9f994d58486a00846a03e6aa97d209b40
 OUT_GRSS1	detail/pedra_det	3.0	3.0	
